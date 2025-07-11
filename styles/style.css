@@ -43,8 +43,9 @@ nav h3{
     border-radius: 10px;
 }
 
-p{
+.banner-section p{
     font-size: 65px;
+    color: rgb(37, 36, 50);
 }
 .banner-section{
     text-align: center;
@@ -93,6 +94,7 @@ section div h4{
     font-size: 38px;
     text-align: center;
     margin-bottom: -15px;
+    color: rgb(37, 36, 50);
 }
 
 .productive-p{
@@ -111,6 +113,7 @@ section div h4{
 .review-section h4{
     text-align: center;
     font-size: 42px;
+    color: rgb(37, 36, 50);
 }
 
 .review-section{
@@ -131,7 +134,7 @@ section div h4{
     border-radius: 14px;
     width: 318px;
     height: 233px;
-
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .focus-section h3{
@@ -229,6 +232,6 @@ label{
 
 .footer-section ul li a{
     text-decoration: none;
-    color: #8987A1;
+    color: rgb(137, 135, 161);
     font-size: 20px;
 }
